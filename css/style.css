@@ -1,0 +1,67 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0080c1;
+}
+
+a {
+  color: #f39c00;
+}
+
+.lesson {
+  color: #fff;
+  text-align: center;
+}
+
+.subtitle {
+  background-color: #90218e;
+  text-align: center;
+  color: #fff;
+  margin: 0;
+}
+
+.info {
+  background-color: #fdf5e6;
+  padding: 10px;
+  margin: 0;
+}
+
+.list {
+  background-color: #fdf5e6;
+  padding: 0 0 0 40px;
+  margin: 0;
+}
+
+.welcome {
+  display: inline-block;
+  color: #fff;
+  font-size: 20px;
+}
+
+ul {
+  background-color: #fdf5e6;
+  margin: 0;
+  padding: 10px 0 10px 40px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+ol {
+  background-color: #fdf5e6;
+  padding: 10px;
+  margin: 0;
+  padding: 0 0 0 50px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.info,
+.list,
+.welcome,
+.subtitle,
+.lesson {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
